@@ -1,5 +1,9 @@
-# example-community-template
+# Template-TikTok
 
-The example-community-template project is an example of a Google Tag Manager [Community Template Gallery template repository](https://support.google.com/tagmanager/answer/9454109) repository that can be used as a template to generate new community template repositories.
+This is a GTM template for the TikTok event pixel.
 
-To submit your own template, see the [detailed instructions on how to submit templates to the Community Template Gallery](https://developers.google.com/tag-manager/templates/gallery).
+# Main characteristics
+
+* Compatible with multiple pixel ids (although each event will be sent to all IDs)
+* Event name can be passed as a variable
+* Event parameters can be passed as a table (key&value pairs) or JavaScript object
