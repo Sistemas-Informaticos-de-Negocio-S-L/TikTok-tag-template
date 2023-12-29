@@ -15,5 +15,5 @@
 homepage: "https://www.sidn.es"
 documentation: "https://github.com/gtm-sidn-datalitica/tiktok-pixel"
 versions:
-  - sha: 83e85b473050e13a907614aa7d9b03242a174481
+  - sha: 6055621661c487e2dbad91b503878239b6b8dd8e
     changeNotes: Initial release.
